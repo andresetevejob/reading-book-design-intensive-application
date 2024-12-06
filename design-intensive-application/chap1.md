@@ -77,3 +77,10 @@ Divers les transactions :
 Exemple : 
  - Les vues sql permettent de sécuriser la données : https://www.pairform.fr/les-vues-sql.html
 
+
+Scalabity
+
+
+
+Ressources : 
+ - https://blog.x.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-
